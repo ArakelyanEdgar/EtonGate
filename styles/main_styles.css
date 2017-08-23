@@ -1,0 +1,20 @@
+body {
+    background: url(/backgrounds/cream_dust.png) repeat 0 0;
+}
+
+.gothic_font {
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 53.9px;
+}
+
+h1 {
+    font-size: 65px;
+    text-align: center;
+}
+
+.margin_top {
+	margin-top: 20px;
+}
