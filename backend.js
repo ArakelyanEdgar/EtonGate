@@ -22,7 +22,7 @@ app.use(function(err, req,res,next){
 
 app.use(function(req, res, next){
     res.status(404);
-    res.sendfile(path.join(__dirname+"/views/status_404.html"))
+    res.sendfile(path.join(__dirname+"/views/status404.html"))
 })
 
 app.listen(app.get('port'), function() {
