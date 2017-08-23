@@ -4,7 +4,7 @@
   "description": "A student-created peer-to-peer trading platform",
   "main": "backend.js",
   "scripts": {
-    "start": "backend.js"
+    "start": "node backend.js"
   },
   "author": "Edgar Arakelyan",
   "license": "MIT",
